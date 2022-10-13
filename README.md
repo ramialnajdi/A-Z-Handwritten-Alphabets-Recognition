@@ -1,1 +1,1 @@
-# A-Z-Handwritten-Alphabets-Recognition
+# A-Z-Handwritten-Alphabets-Recognition-App.
