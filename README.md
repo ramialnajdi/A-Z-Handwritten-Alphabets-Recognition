@@ -12,4 +12,5 @@ kaggle link: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphab
 
 ## How To Run The Web App.
 1-Save the trained model in local device and take the file's path put it in variable called path you can see it app file.
-2-Save the app file and run **streamlit run app/app.py*
+
+2-Save the app file and run **streamlit run app/app.py**.
